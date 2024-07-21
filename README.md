@@ -1,2 +1,3 @@
 # Dijkstra_Algorythm
-In the costs file, the costs are introduced as a matrix. The nodes that aren't connected, instead of having an infinite cost, they have cost 500.
+This codig project has been made for my subject ENGR 476 Computer Communications Network.
+We should be able to recreate the behaviour of Dijkstra Algorythm. It receives a costs file where the values are introduced as a matrix. Nodes that are not connected between each other have a cost of 500 instead of infinity.
